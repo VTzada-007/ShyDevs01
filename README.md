@@ -205,13 +205,13 @@ Foram realizados testes para verificar:
 
 ## Link do repositório
 
-[Adicionar link do GitHub]
+https://github.com/VTzada-007/ShyDevs01.git
 
 ---
 
 ## Link do site publicado
 
-[Adicionar link do GitHub Pages]
+https://vtzada-007.github.io/ShyDevs01
 
 ---
 
