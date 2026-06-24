@@ -205,7 +205,7 @@ Foram realizados testes para verificar:
 
 ## Link do repositório
 
-https://github.com/VTzada-007/ShyDevs01.git
+https://github.com/VTzada-007/ShyDevs01
 
 ---
 
