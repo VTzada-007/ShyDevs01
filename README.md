@@ -217,13 +217,13 @@ https://vtzada-007.github.io/ShyDevs01
 
 ## Contribuição dos integrantes
 
-### Integrante 1
+### Murilo Leonan
 
 * Desenvolvimento da estrutura HTML;
 * Organização do conteúdo;
 * Implementação da funcionalidade JavaScript.
 
-### Integrante 2
+### Vitor Luciano
 
 * Desenvolvimento do CSS;
 * Implementação da responsividade;
